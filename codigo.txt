@@ -2,4 +2,6 @@ Cibertec
 
 Michael Castañeda Figueroa
 
-Sistema de LPII
+Sistema del colegio 122
+
+Este sistema permite la matricula de los alumnos
